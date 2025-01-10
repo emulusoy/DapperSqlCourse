@@ -1,0 +1,13 @@
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\bin\Debug\DapperSqlCourse.exe.config
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\bin\Debug\DapperSqlCourse.exe
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\bin\Debug\DapperSqlCourse.pdb
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\bin\Debug\Dapper.dll
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\bin\Debug\Dapper.xml
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\obj\Debug\DapperSqlCourse.csproj.AssemblyReference.cache
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\obj\Debug\DapperSqlCourse.Form1.resources
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\obj\Debug\DapperSqlCourse.Properties.Resources.resources
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\obj\Debug\DapperSqlCourse.csproj.GenerateResource.cache
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\obj\Debug\DapperSqlCourse.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\obj\Debug\DapperSq.C6B7BA81.Up2Date
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\obj\Debug\DapperSqlCourse.exe
+C:\Users\Mustafa ulusoy\source\repos\DapperSqlCourse\DapperSqlCourse\obj\Debug\DapperSqlCourse.pdb
